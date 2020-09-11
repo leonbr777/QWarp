@@ -1,0 +1,17 @@
+main: me.Liam.QuickWarp.WarpsMain
+name: QuickWarp
+version: 1.0.1
+api-version: 1.16
+author: Liam
+
+commands:
+  qwarp:
+    description: Allows players to seamlessly warp between set locations.
+    usage: /qwarp
+    aliases:
+      - qwp
+  qworld:
+    description: Allows players to seamlessly warp between set worlds.
+    usage: /qworld
+    aliases:
+        - qw

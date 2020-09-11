@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="QuickWarp:jar">
+    <output-path>$PROJECT_DIR$/../../../../../Dinnerbone Server/plugins</output-path>
+    <root id="archive" name="QuickWarp.jar">
+      <element id="module-output" name="QuickWarp" />
+    </root>
+  </artifact>
+</component>
